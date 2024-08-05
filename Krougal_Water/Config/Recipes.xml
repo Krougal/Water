@@ -1,0 +1,9 @@
+<Krougal>
+
+<append xpath="/recipes">
+	<recipe name="drinkJarRiverWater" count="1" >
+		<ingredient name="resourceSnowBall" count="10"/>
+	</recipe>
+</append>
+
+</Krougal>
